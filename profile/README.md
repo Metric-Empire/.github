@@ -1,11 +1,23 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="MetricEmpire_Logo_Wt.png">
-    <img alt="Metric Empire Logo" src="MetricEmpire_Logo_Bk.png">
-  </picture>
+  <a
+    href="https://www.metricempire.com"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="MetricEmpire_Logo_Wt.png"
+      >
+      <img
+        src="MetricEmpire_Logo_Bk.png"
+        alt="Metric Empire Logo"
+      >
+    </picture>
+  </a>
 </p>
 
-## [Metric Empire](https://www.metricempire.com) is an Indie Video Game studio based in Montreal
+## Metric Empire is an Indie Video Game studio based in Montreal
 
 # Our Games
 
