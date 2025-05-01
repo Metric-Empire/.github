@@ -40,7 +40,7 @@
   <img
     src="Discord_Light.svg"
     alt="Discord"
-    width="30"
+    width="40"
     height="30"
   >
 </picture>
@@ -54,7 +54,7 @@
   <img
     src="Linkedin_Light.svg"
     alt="Linkedin"
-    width="30"
+    width="40"
     height="30"
   >
 </picture>
@@ -68,7 +68,7 @@
   <img
     src="Twitter_Light.svg"
     alt="Twitter"
-    width="30"
+    width="40"
     height="30"
   >
 </picture>
