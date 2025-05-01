@@ -5,13 +5,39 @@
   </picture>
 </p>
 
-[Metric Empire](https://www.metricempire.com) is an Indie Video Game studio based in Montreal
+## [Metric Empire](https://www.metricempire.com) is an Indie Video Game studio based in Montreal
 
-# Out Games
+# Our Games
 
-[<img src="profile/BattleShapers_Logo.png">](https://store.steampowered.com/app/1421290/Battle_Shapers/)
+[<img src="BattleShapers_Logo.png">](https://store.steampowered.com/app/1421290/Battle_Shapers/)
 
 
-<a href="https://discord.gg/b5kH84CDNB" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="BattleShapers" height="40" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/company/metricempire/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="metricempire" height="30" width="30" /></a>&nbsp;
-<a href="https://x.com/TheMetricEmpire" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="TheMetricEmpire" height="30" width="30" /></a>&nbsp;
+<a href="https://discord.gg/b5kH84CDNB" target="_blank">
+  <img
+    align="left"
+    src="discord.svg"
+    alt="Discord"
+    width="30"
+    height="30"
+  />
+</a>
+<a href="https://www.linkedin.com/company/metricempire/" target="_blank">
+  <img
+    align="left"
+    src="linkedin.svg"
+    alt="Discord"
+    width="30"
+    height="30"
+  />
+</a>
+<a href="https://x.com/TheMetricEmpire" target="_blank">
+  <img
+    align="left"
+    src="twitter.svg"
+    alt="Discord"
+    width="30"
+    height="30"
+  />
+</a>
+
+
