@@ -9,8 +9,15 @@
 
 # Our Games
 
-[<img src="BattleShapers_Logo.png">](https://store.steampowered.com/app/1421290/Battle_Shapers/)
+<a href="https://store.steampowered.com/app/1421290/Battle_Shapers/">
+  <img
+    src="BattleShapers_Logo.png"
+    alt="Battle Shapers Logo"
+    width="200"
+  />
+</a>
 
+# Socials
 
 <a href="https://discord.gg/b5kH84CDNB" target="_blank">
   <img
