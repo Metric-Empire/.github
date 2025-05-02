@@ -1,16 +1,12 @@
 <p align="center">
-  <a
-    href="https://www.metricempire.com"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+  <a href="https://www.metricempire.com" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="MetricEmpire_Logo_Wt.png"
+        srcset="MetricEmpire_Logo_Dark.png"
       >
       <img
-        src="MetricEmpire_Logo_Bk.png"
+        src="MetricEmpire_Logo_Light.png"
         alt="Metric Empire Logo"
       >
     </picture>
